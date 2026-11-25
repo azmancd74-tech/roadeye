@@ -184,7 +184,7 @@ export default function App() {
           </nav>
 
           <div className="nav__actions">
-            <a className="btn btn--ghost btn--sm" href="https://github.com/azmancd74-tech/dummy-fyp" target="_blank" rel="noreferrer">
+            <a className="btn btn--ghost btn--sm" href="https://github.com/azmancd74-tech/roadeye" target="_blank" rel="noreferrer">
               Sumber
             </a>
             <a className="btn btn--primary btn--sm" href="#contact">
@@ -426,7 +426,7 @@ export default function App() {
                 <a className="btn btn--primary" href="mailto:azmancd74@gmail.com">
                   E-mel pasukan
                 </a>
-                <a className="btn btn--ghost" href="https://github.com/azmancd74-tech/dummy-fyp" target="_blank" rel="noreferrer">
+                <a className="btn btn--ghost" href="https://github.com/azmancd74-tech/roadeye" target="_blank" rel="noreferrer">
                   Lihat repositori
                 </a>
               </div>
